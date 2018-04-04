@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4212" started-at="2018-04-04T08:50:24Z" finished-at="2018-04-04T08:50:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4212" started-at="2018-04-04T08:50:24Z" finished-at="2018-04-04T08:50:29Z">
+      <class name="tests.TestRegister">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestRegister@3aeaafa6]" name="setUp" is-config="true" duration-ms="7701" started-at="2018-04-04T08:50:17Z" finished-at="2018-04-04T08:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classSetUp()[pri:0, instance:tests.TestRegister@3aeaafa6]" name="classSetUp" is-config="true" duration-ms="1855" started-at="2018-04-04T08:50:25Z" finished-at="2018-04-04T08:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method status="PASS" signature="testFirstNameValidDataWithThirtyChar()[pri:0, instance:tests.TestRegister@3aeaafa6]" name="testFirstNameValidDataWithThirtyChar" duration-ms="2042" started-at="2018-04-04T08:50:27Z" finished-at="2018-04-04T08:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstNameValidDataWithThirtyChar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestRegister@3aeaafa6]" name="tearDown" is-config="true" duration-ms="98" started-at="2018-04-04T08:50:29Z" finished-at="2018-04-04T08:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
